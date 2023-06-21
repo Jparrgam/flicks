@@ -43,7 +43,7 @@ android {
         it.buildConfigField(
             "String",
             "XRapidApiKey",
-            "\"43abd8e00cmsh4148202ef68d4bap12c34fjsne542eedb1469\""
+            "\"API_KEY_HERE\""
         )
 
         it.buildConfigField(
