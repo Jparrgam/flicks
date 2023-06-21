@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="flicks_app_title">Flicks</string>
+    <string name="detail_recipes_feed">Similar recipes</string>
+</resources>
